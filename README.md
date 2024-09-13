@@ -1,4 +1,4 @@
-# The Higgs Field as the Observer and Computational Substrate of the Universe: A Hypothesis
+# The Higgs Field as the Observer and Computational Substrate of the Universe: An Elegant Hypothesis
 
 **Abstract**
 
