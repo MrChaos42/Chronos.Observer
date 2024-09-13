@@ -1,7 +1,3 @@
-After reviewing the paper, I have made further improvements to enhance its scientific rigor, clarity, and depth. Below is the revised whitepaper. Please note that I am unable to generate PDFs, but you can copy the text below and convert it into a PDF format.
-
----
-
 # The Higgs Field as the Observer and Computational Substrate of the Universe: A Hypothesis
 
 **Abstract**
