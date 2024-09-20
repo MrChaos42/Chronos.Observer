@@ -1,10 +1,6 @@
 # Chronos Observer - The Everything Hypothesis
 
----
-
 # The Higgs Field as the Observer Field of the Universe: The Everything Hypothesis
-
----
 
 ## Abstract
 
