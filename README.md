@@ -390,7 +390,7 @@ for t in range(TIME_STEPS):
 
 ### 15.3 Program Breakdown
 
-1. **Particle Class**: Each particle has a mass, position (in a 2D space), velocity, and charge. Masses are initialized randomly within the bounds of $\( \text{MAX\_MASS} \)$, positions are randomized within a predefined spatial range, and charges are assigned as -1, 0, or +1 for simplicity. The velocity is initially set to zero.
+1. **Particle Class**: Each particle has a mass, position (in a 2D space), velocity, and charge. Masses are initialized randomly within the bounds of MAX_MASS, positions are randomized within a predefined spatial range, and charges are assigned as -1, 0, or +1 for simplicity. The velocity is initially set to zero.
 
 2. **Force Calculations**:
    - **Gravitational Force**: A simplified gravitational-like interaction is computed between each pair of particles based on their masses and distances.
