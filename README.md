@@ -1,4 +1,4 @@
-# The Higgs Field as the Observer and Computational Substrate of the Universe: An Elegant Hypothesis
+# The Higgs Field as the Observer and Computational Substrate of the Universe: The Everything Hypothesis
 
 **Author:** Abhiroop Sharma  
 **Email:** abhiroop.sharma@gmail.com  
