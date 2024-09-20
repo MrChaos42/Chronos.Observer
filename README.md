@@ -1,3 +1,5 @@
+# Chronos Observer
+
 # The Higgs Field as the Observer and Computational Substrate of the Universe: The Everything Hypothesis
 
 **Author:** Abhiroop Sharma  
