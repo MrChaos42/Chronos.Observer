@@ -122,7 +122,7 @@ L : U(t) \rightarrow U(t+1)
 - $\( L_{\text{em}} \)$: A subroutine that computes the electromagnetic interactions between charged particles.
 - $\( L_{\text{strong}} \)$: A subroutine that computes the strong nuclear interactions that bind quarks within hadrons.
 - $\( L_{\text{weak}} \)$: A subroutine that computes the weak nuclear interactions responsible for processes like beta decay.
-- \( L_{\text{gravity}} \)$: A subroutine that computes gravitational interactions as emergent computational side effects.
+- $\( L_{\text{gravity}} \)$: A subroutine that computes gravitational interactions as emergent computational side effects.
 
 These subroutines determine the transitions between states of the universe, ensuring that the universe’s evolution conforms to the known laws of physics.
 
