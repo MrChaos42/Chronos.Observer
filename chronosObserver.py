@@ -3,7 +3,7 @@ import math
 
 # Constants
 NUM_PARTICLES = 42
-MAX_INT = 10**6  # The maximum integer (computational limit)
+MAX_INT = 10**42  # The maximum integer (computational limit)
 MAX_MASS = 42  # Maximum mass of a particle
 MAX_POSITION = 42  # Maximum position value
 TIME_STEPS = 42  # Number of time steps for simulation
