@@ -399,10 +399,10 @@ for t in range(TIME_STEPS):
 3. **Simulation Loop**: The universe evolves over a fixed number of time steps. In each time step:
    - **Force Calculation**: Gravitational and electromagnetic forces between all pairs of particles are calculated.
    - **Force Application**: Forces are applied to the particles, updating their velocities accordingly.
-   - **Position Update**: Particle positions are updated based on their velocities, ensuring they remain within the computational bounds defined by $\( \text{MAX\_POSITION} \)$.
+   - **Position Update**: Particle positions are updated based on their velocities, ensuring they remain within the computational bounds defined by MAX_POSITION.
    - **State Reporting**: The positions, masses, and charges of particles are printed out for observation.
 
-4. **Constraints**: All computations are bounded by the maximum integer $\( X \)$, ensuring that no mass, position, velocity, or charge exceeds the predefined limits. This mirrors the finite computational capacity of the universe in our theoretical model.
+4. **Constraints**: All computations are bounded by the maximum integer X, ensuring that no mass, position, velocity, or charge exceeds the predefined limits. This mirrors the finite computational capacity of the universe in our theoretical model.
 
 ### 15.4 Integration into the Theoretical Framework
 
