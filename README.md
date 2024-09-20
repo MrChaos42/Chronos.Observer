@@ -4,6 +4,7 @@
 
 We propose a theoretical framework positing the Higgs Field not only as the originator of mass but also as the universal observer and computational substrate governing the dynamics of the universe. By integrating principles from quantum field theory, general relativity, and computational complexity theory, we explore how the Higgs Field could mediate information processing and observations at the quantum level. This hypothesis offers potential resolutions to fundamental paradoxes, including the measurement problem in quantum mechanics, and provides a physical basis for the computational complexity distinction between NP and P problems.
 
+Author: abhiroop.sharma@gmail.com
 ---
 
 ## Introduction
@@ -313,5 +314,3 @@ By proposing the Higgs Field as the universal observer and computational substra
 10. Bremermann, H. J. (1982). Minimum Energy Requirements of Information Transfer and Computing. *International Journal of Theoretical Physics*, 21(3-4), 203–217.
 
 ---
-
-## contact misterchaos42@gmail.com
